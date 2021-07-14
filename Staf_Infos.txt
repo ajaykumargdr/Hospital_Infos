@@ -1,0 +1,48 @@
+Dolu
+-------------
+
+Name : Dolu
+Age : 14
+Salary : 10,000
+Position : worker
+
+Bolu
+-------------
+
+Name : Bolu
+Age : 14
+Salary : 10,000
+Position : worker
+
+Kaliya
+-------------
+
+Name : Kaliya
+Age : 18
+Salary : 15,000
+Position : Night Worker
+
+Jaggu
+-------------
+
+Name : Jaggu
+Age : 14
+Salary : 18,000
+Position : watchman
+
+Chutki
+-------------
+
+Name : Chutki
+Age : 13
+Salary : 14,000
+Position : cleaner
+
+Juli
+-------------
+
+Name : Juli
+Age : 14
+Salary : 7,000
+Position : cleaner
+

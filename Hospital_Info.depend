@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1625717675 source:d:\project hospital ifos\hospital_info\main.cpp
+	"def.h"
+	<exception>
+
+1625719016 source:d:\project hospital ifos\hospital_info\src\doc_info.cpp
+	"Doc_info.h"
+	<iostream>
+	<fstream>
+
+1625717642 d:\project hospital ifos\hospital_info\include\doc_info.h
+	"docAppointment.h"
+
+1625586912 source:d:\project hospital ifos\hospital_info\src\docappointment.cpp
+	"docAppointment.h"
+
+1625583122 d:\project hospital ifos\hospital_info\include\docappointment.h
+	<iostream>
+	<string>
+
+1625717642 d:\project hospital ifos\hospital_info\def.h
+	<iostream>
+	<string>
+	"Doc_info.h"
+	"docAppointment.h"
+	"stafInfo.h"
+	<fstream>
+	<conio.h>
+	<fstream>
+	<sstream>
+
+1625677272 d:\project hospital ifos\hospital_info\include\stafinfo.h
+	<iostream>
+	<vector>
+
+1625678026 source:d:\project hospital ifos\hospital_info\src\stafinfo.cpp
+	"stafInfo.h"
+	<fstream>
+
